@@ -1,4 +1,4 @@
-# Nitesh Paudel - @YourUsername 👋
+# Nitesh Paudel - @niteshpaudel 👋
 
 ## About Me 🚀
 
