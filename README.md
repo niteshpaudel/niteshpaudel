@@ -35,5 +35,6 @@ Research, hands-on practice, pair programming, and staying curious and updated k
 - [Twitter](https://twitter.com/nitesvh)
 - [Instagram](https://instagram.com/nitesvh)
 - [LinkedIn](https://www.linkedin.com/in/niteshpaudel)
+- [G-mail](mailto:niteshpaudel.x@gmail.com)
 
 Feel free to explore my repositories, collaborate, and let's create wonders together! Happy coding! 🚀💻
