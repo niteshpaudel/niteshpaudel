@@ -6,7 +6,7 @@ Passionate problem solver and creative coder with a thirst for innovation and co
 
 ## My Coding Journey 🛠️
 
-- **Languages & Technologies:** Python, C, C++, JavaScript, SQL, Dart, Shell, HTML, CSS.
+- **Languages & Technologies:** ![Python]([images/python.png](https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo.png)) ![C](images/c.png) ![C++](images/cpp.png) ![JavaScript](images/javascript.png) ![SQL](images/sql.png) ![Dart](images/dart.png) ![Shell](images/shell.png) ![HTML](images/html.png) ![CSS](images/css.png)
 - **Software Skills:** VSCode, Excel, Word, PowerPoint, Photoshop, Illustrator, Figma, Premiere Pro, Canva, WordPress + WooCommerce.
 - **Learning Philosophy:** Start simple, learn by doing, online courses and tutorials, community engagement.
 - **Favourite Coding Quotes:** "Code never lies, comments sometimes do", "Programming is the closest thing we have to magic", "I would like to change the world, but they won't give me the source code", "I code like a ninja. No comments, no traces, no mercy!"
